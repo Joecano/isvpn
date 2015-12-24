@@ -1,0 +1,17 @@
+#text {
+	font-family:Comic Sans MS;
+	font-size:50px;
+	text-align:center;
+	color:white;
+	font-style:italic;
+}
+* {
+	background-color:gold;
+}
+#logo {
+	width:75%;
+	height:auto;
+	display:block;
+	margin:0 auto;
+	margin-top:5%;
+}
