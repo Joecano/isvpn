@@ -38,7 +38,7 @@
   font-family: 'Open Sans', sans-serif;
   font-weight: 700;
   text-transform: uppercase;
-  font-size: 14px;
+  font-size: 20px;
   position: relative;
   -webkit-transition: color .25s;
   -moz-transition: color .25s;
@@ -60,7 +60,7 @@
   top: 19px;
   height: 6px;
   width: 6px;
-  background: #ffffff;
+  background: gold;
   opacity: .5;
 }
 #cssmenu ul li a:before {
@@ -82,12 +82,7 @@
 #cssmenu ul li:last-child > a:after {
   display: none;
 }
-#cssmenu ul li.active a {
-  color: #333333;
-}
-#cssmenu ul li.active a:before {
-  width: 100%;
-}
+
 #cssmenu.align-right li.last > a:after,
 #cssmenu.align-right li:last-child > a:after {
   display: block;
@@ -105,7 +100,7 @@
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
-    border-bottom: 1px solid #fb998c;
+    border-bottom: 1px solid #ffffff;
   }
   #cssmenu ul li.last > a,
   #cssmenu ul li:last-child > a {
