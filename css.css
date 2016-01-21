@@ -46,7 +46,7 @@
   transition: color .25s;
 }
 #cssmenu ul li a:hover {
-  color: gold;
+  color: white;
 }
 #cssmenu ul li a:hover:before {
   width: 100%;
